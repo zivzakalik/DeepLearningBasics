@@ -1,5 +1,6 @@
 # DeepLearningBasics
-Home work assignment for deep learning class
+Home work assignment for deep learning class.
+
 This git repo contains 3 home work assignment for deep learning course.
 
 ## Simple fully connencted
